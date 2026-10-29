@@ -1,0 +1,165 @@
+{
+  "source_url": "https://www.arca.gob.ar/monotributo/categorias.asp",
+  "source_name": "ARCA - Monotributo - Categorías",
+  "source_cross_check_url": "https://www.afip.gob.ar/monotributo/categorias.asp",
+  "vigencia": "Valores de aplicación desde el 1/08/2026",
+  "vigencia_desde": "2026-08-01",
+  "vigencia_hasta": null,
+  "fetched_at": "2026-10-05",
+  "currency": "ARS",
+  "units": {
+    "ingresos_brutos_anuales": "ARS por año (tope, 'hasta')",
+    "superficie_afectada_m2": "m2 (tope, 'hasta')",
+    "energia_electrica_kw_anual": "Kw consumidos por año (tope, 'hasta'), unidad tal como la publica la fuente",
+    "alquileres_devengados_anuales": "ARS por año (tope, 'hasta')",
+    "precio_unitario_maximo": "ARS",
+    "impuesto_integrado": "ARS por mes",
+    "aportes_sipa": "ARS por mes",
+    "aportes_obra_social": "ARS por mes",
+    "total_mensual": "ARS por mes"
+  },
+  "categories": [
+    {
+      "categoria": "A",
+      "ingresos_brutos_anuales": 12009410.45,
+      "superficie_afectada_m2": 30,
+      "energia_electrica_kw_anual": 3330,
+      "alquileres_devengados_anuales": 2792886.15,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 5585.77, "venta_cosas_muebles": 5585.77},
+      "aportes_sipa": 18246.86,
+      "aportes_obra_social": 25694.55,
+      "total_mensual": {"servicios": 49527.18, "venta_cosas_muebles": 49527.18}
+    },
+    {
+      "categoria": "B",
+      "ingresos_brutos_anuales": 17595182.74,
+      "superficie_afectada_m2": 45,
+      "energia_electrica_kw_anual": 5000,
+      "alquileres_devengados_anuales": 2792886.15,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 10612.98, "venta_cosas_muebles": 10612.98},
+      "aportes_sipa": 20071.55,
+      "aportes_obra_social": 25694.55,
+      "total_mensual": {"servicios": 56379.08, "venta_cosas_muebles": 56379.08}
+    },
+    {
+      "categoria": "C",
+      "ingresos_brutos_anuales": 24670494.31,
+      "superficie_afectada_m2": 60,
+      "energia_electrica_kw_anual": 6700,
+      "alquileres_devengados_anuales": 3816944.41,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 18246.86, "venta_cosas_muebles": 16757.32},
+      "aportes_sipa": 22078.71,
+      "aportes_obra_social": 25694.55,
+      "total_mensual": {"servicios": 66020.12, "venta_cosas_muebles": 64530.58}
+    },
+    {
+      "categoria": "D",
+      "ingresos_brutos_anuales": 30628651.43,
+      "superficie_afectada_m2": 85,
+      "energia_electrica_kw_anual": 10000,
+      "alquileres_devengados_anuales": 3816944.41,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 29790.79, "venta_cosas_muebles": 27742.67},
+      "aportes_sipa": 24286.58,
+      "aportes_obra_social": 30535.56,
+      "total_mensual": {"servicios": 84612.93, "venta_cosas_muebles": 82564.81}
+    },
+    {
+      "categoria": "E",
+      "ingresos_brutos_anuales": 36028231.33,
+      "superficie_afectada_m2": 110,
+      "energia_electrica_kw_anual": 13000,
+      "alquileres_devengados_anuales": 4841002.66,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 55857.73, "venta_cosas_muebles": 44313.79},
+      "aportes_sipa": 26715.24,
+      "aportes_obra_social": 37238.48,
+      "total_mensual": {"servicios": 119811.45, "venta_cosas_muebles": 108267.51}
+    },
+    {
+      "categoria": "F",
+      "ingresos_brutos_anuales": 45151659.41,
+      "superficie_afectada_m2": 150,
+      "energia_electrica_kw_anual": 16500,
+      "alquileres_devengados_anuales": 4841002.66,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 78573.20, "venta_cosas_muebles": 57719.64},
+      "aportes_sipa": 29386.76,
+      "aportes_obra_social": 42824.25,
+      "total_mensual": {"servicios": 150784.21, "venta_cosas_muebles": 129930.65}
+    },
+    {
+      "categoria": "G",
+      "ingresos_brutos_anuales": 53995798.87,
+      "superficie_afectada_m2": 200,
+      "energia_electrica_kw_anual": 20000,
+      "alquileres_devengados_anuales": 5771964.69,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 142995.76, "venta_cosas_muebles": 71497.87},
+      "aportes_sipa": 41141.46,
+      "aportes_obra_social": 46175.72,
+      "total_mensual": {"servicios": 230312.94, "venta_cosas_muebles": 158815.05}
+    },
+    {
+      "categoria": "H",
+      "ingresos_brutos_anuales": 81924660.37,
+      "superficie_afectada_m2": 200,
+      "energia_electrica_kw_anual": 20000,
+      "alquileres_devengados_anuales": 8378658.45,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 409623.31, "venta_cosas_muebles": 204811.64},
+      "aportes_sipa": 57598.04,
+      "aportes_obra_social": 55485.33,
+      "total_mensual": {"servicios": 522706.68, "venta_cosas_muebles": 317895.01}
+    },
+    {
+      "categoria": "I",
+      "ingresos_brutos_anuales": 91699761.90,
+      "superficie_afectada_m2": 200,
+      "energia_electrica_kw_anual": 20000,
+      "alquileres_devengados_anuales": 8378658.45,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 814591.79, "venta_cosas_muebles": 325836.71},
+      "aportes_sipa": 80637.26,
+      "aportes_obra_social": 68518.81,
+      "total_mensual": {"servicios": 963747.86, "venta_cosas_muebles": 474992.78}
+    },
+    {
+      "categoria": "J",
+      "ingresos_brutos_anuales": 105012519.20,
+      "superficie_afectada_m2": 200,
+      "energia_electrica_kw_anual": 20000,
+      "alquileres_devengados_anuales": 8378658.45,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 977510.14, "venta_cosas_muebles": 391004.07},
+      "aportes_sipa": 112892.16,
+      "aportes_obra_social": 76897.46,
+      "total_mensual": {"servicios": 1167299.76, "venta_cosas_muebles": 580793.69}
+    },
+    {
+      "categoria": "K",
+      "ingresos_brutos_anuales": 126610838.75,
+      "superficie_afectada_m2": 200,
+      "energia_electrica_kw_anual": 20000,
+      "alquileres_devengados_anuales": 8378658.45,
+      "precio_unitario_maximo": 716840.77,
+      "impuesto_integrado": {"servicios": 1368514.20, "venta_cosas_muebles": 456171.40},
+      "aportes_sipa": 158049.02,
+      "aportes_obra_social": 87882.82,
+      "total_mensual": {"servicios": 1614446.04, "venta_cosas_muebles": 702103.24}
+    }
+  ],
+  "footnotes_as_read": [
+    "Este parámetro no deberá considerarse en ciudades de menos de 40.000 habitantes.",
+    "La fuente indica que ciertos contribuyentes (entre ellos trabajadores independientes promovidos y asociados a cooperativas) no ingresan el impuesto integrado, y que ciertos grupos (entre ellos menores, jubilados y quienes aportan a otros regímenes de jubilación) están exceptuados de los aportes al SIPA y a la obra social. Texto resumido, no literal."
+  ],
+  "missing": [
+    "vigencia_hasta: la página oficial solo dice 'Valores de aplicación desde el 1/08/2026'; no publica fecha de fin. Sitios no oficiales dicen 'hasta el 31/01/2027', pero ese dato no se leyó en una fuente oficial y por eso queda en null.",
+    "footnotes_as_read: no se pudo leer a qué columna remite cada nota al pie (la nota de 'ciudades de menos de 40.000 habitantes' no quedó atribuida a un parámetro), ni el texto literal de las notas sobre exenciones del impuesto integrado y de los aportes."
+  ],
+  "method": "Valores copiados de la página indicada en source_url (https://www.arca.gob.ar/monotributo/categorias.asp), vigentes desde el 1/08/2026, leída el 2026-10-05.",
+  "disclaimer": "Datos informativos copiados de la página oficial de ARCA en la fecha indicada. No es asesoramiento contable ni impositivo. Verificar los valores vigentes en ARCA o con un contador matriculado. Sin afiliación con ARCA."
+}
